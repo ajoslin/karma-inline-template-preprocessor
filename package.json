@@ -1,0 +1,36 @@
+{
+  "name": "karma-inline-template-preprocessor",
+  "version": "0.0.0",
+  "author": "Andy Joslin <andytjoslin@gmail.com>",
+  "description": "A Karma plugin. Use inline-template to put HTML templates as js strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ajoslin/karma-inline-template-preprocessor.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor"
+  ],
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-npm": "~0.0.2",
+    "grunt-bump": "~0.0.7",
+    "grunt-auto-release": "~0.0.2",
+    "grunt-simple-mocha": "~0.4.0",
+    "chai": "~1.8.1",
+    "grunt-contrib-jshint": "~0.6.4",
+    "mocha": "~1.13.0"
+  },
+  "dependencies": {
+    "lodash": "~2.2.1",
+    "inline-template": "0.0.1"
+  }
+}
