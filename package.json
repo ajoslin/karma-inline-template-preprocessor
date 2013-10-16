@@ -1,6 +1,6 @@
 {
   "name": "karma-inline-template-preprocessor",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Andy Joslin <andytjoslin@gmail.com>",
   "description": "A Karma plugin. Use inline-template to put HTML templates as js strings.",
   "main": "index.js",
