@@ -2,7 +2,7 @@
 
 [inline-template](http://github.com/ajoslin/inline-template) in a karma plugin. 
 
-Best used with grunt-inline-template for distribution (coming soon).
+Best used with [grunt-inline-template](http://github.com/ajoslin/grunt-inline-template) for building your app.
 
 ## Installation
 
