@@ -31,7 +31,8 @@
   },
   "dependencies": {
     "lodash": "~2.2.1",
-    "inline-template": "0.0.1"
+    "inline-template": "0.0.1",
+    "chokidar": "~0.6.3"
   },
   "contributors": []
 }
